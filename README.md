@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FaykViolet
-- 👀 I’m interested in-- Video Games/Development, C++ gui apps
-- 🌱 I’m currently learning-- C++, JS, Python, and c#
+- 👀 I’m interested in-- Video Games/app devolopment
+- 🌱 I’m currently learning-- C++ and golang 
 - 📫 How to reach me-- dont
 
 <!---
